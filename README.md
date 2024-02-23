@@ -6,7 +6,7 @@ Jupyter Notebooks and other files from my video tutorial series about GigaChat A
 
 [Как общаться с GigaChat API с помощью Gigachain? (Туториал)](https://youtu.be/eo5LyjRobic) - [Блокнот](https://github.com/trashchenkov/gigachat_tutorials/blob/main/%D0%B3%D0%B8%D0%B3%D0%B0%D1%87%D0%B5%D0%B9%D0%BD.ipynb)
 
-[Как подключить GigaChat API к Telegram-боту? Подробное руководство на Python](https://www.youtube.com/channel/UCy1DvXLqLTprBsna3WGL7wA) - [Блокнот](https://github.com/trashchenkov/gigachat_tutorials/blob/main/Telegram.ipynb)
+[Как подключить GigaChat API к Telegram-боту? Подробное руководство на Python](https://youtu.be/cSbGMrMbYng) - [Блокнот](https://github.com/trashchenkov/gigachat_tutorials/blob/main/Telegram.ipynb)
 
 
 
