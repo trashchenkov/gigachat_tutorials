@@ -10,5 +10,7 @@ Jupyter Notebooks and other files from my video tutorial series about GigaChat A
 
 [Как сделать агентов на основе GigaChat? Подробный туториал на Python](https://youtu.be/1P7ajSgpDcU) - [Блокнот](https://github.com/trashchenkov/gigachat_tutorials/blob/main/%D0%90%D0%B3%D0%B5%D0%BD%D1%82%D1%8B_%D0%B2_%D0%93%D0%B8%D0%B3%D0%B0%D1%87%D0%B5%D0%B9%D0%BD%D0%B5.ipynb)
 
+[Реализация RAG на основе GigaChat. Как искать и генерировать ответы по базе знаний?](https://youtu.be/kxQ3qfryEHE) - [Блокнот](https://github.com/trashchenkov/gigachat_tutorials/blob/main/RAG_%D0%BF%D0%BE_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F%D0%BC.ipynb)
+
 
 
