@@ -12,5 +12,5 @@ Jupyter Notebooks and other files from my video tutorial series about GigaChat A
 
 [Реализация RAG на основе GigaChat. Как искать и генерировать ответы по базе знаний?](https://youtu.be/kxQ3qfryEHE) - [Блокнот](https://github.com/trashchenkov/gigachat_tutorials/blob/main/RAG_%D0%BF%D0%BE_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F%D0%BC.ipynb)
 
-
+[GigaChain. Как загрузить документы, чтобы ИИ отвечал по ним?](https://youtu.be/PHCm7dADiVk) - [Блокнот](https://github.com/trashchenkov/gigachat_tutorials/blob/main/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA%D0%B8.ipynb)
 
