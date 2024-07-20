@@ -14,6 +14,8 @@ Jupyter Notebooks and other files from my video tutorial series about GigaChat A
 
 [GigaChain. Как загрузить документы, чтобы ИИ отвечал по ним?](https://youtu.be/PHCm7dADiVk) - [Блокнот](https://github.com/trashchenkov/gigachat_tutorials/blob/main/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA%D0%B8.ipynb)
 
+[SaluteSpeech API + GigaChat API: Как научить бота слушать и говорить, используя Python?](https://youtu.be/CBdmeWr_XQ0) - [Блокнот](https://github.com/trashchenkov/gigachat_tutorials/blob/main/%D0%93%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B1%D0%BE%D1%82.ipynb)
+
 [RAG. Делаем вопросно-ответную систему с поиском по базе видеороликов](https://youtu.be/slfC9um1qdk) - [Блокнот](https://github.com/trashchenkov/gigachat_tutorials/blob/main/RAG_%D0%BF%D0%BE_%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D1%80%D0%BE%D0%BB%D0%B8%D0%BA%D0%B0%D0%BC.ipynb)
 
 [GigaChat API и БД. Как можно общаться с базами данных с помощью ИИ?](https://youtu.be/IazvHwAuV28) - [Блокнот](https://github.com/trashchenkov/gigachat_tutorials/blob/main/LLM_%D0%B8_%D0%91%D0%94.ipynb)
