@@ -20,3 +20,5 @@ Jupyter Notebooks and other files from my video tutorial series about GigaChat A
 
 [SaluteSpeech API + GigaChat API: Как научить бота слушать и говорить, используя Python?](https://youtu.be/CBdmeWr_XQ0) - [Блокнот](https://github.com/trashchenkov/gigachat_tutorials/blob/main/%D0%93%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B1%D0%BE%D1%82.ipynb)
 
+[Moondream2 + GigaChat API: Помогаем LLM видеть](https://youtu.be/RLG988ASXd0) - [Блокнот](https://github.com/trashchenkov/gigachat_tutorials/blob/main/LLM_%2B_Vision.ipynb)
+
