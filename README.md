@@ -22,5 +22,7 @@ Jupyter Notebooks and other files from my video tutorial series about GigaChat A
 
 [Moondream2 + GigaChat API: Помогаем LLM видеть](https://youtu.be/RLG988ASXd0) - [Блокнот](https://github.com/trashchenkov/gigachat_tutorials/blob/main/LLM_%2B_Vision.ipynb)
 
+[GigaChat API: работа с изображениями (распознавание и генерация)](https://youtu.be/7mRdG_ocEQY) - [Блокнот](https://github.com/trashchenkov/gigachat_tutorials/blob/main/IMAGES.ipynb)
+
 ## А еще переходите в [ТГ-канал!](https://t.me/gigatrash) Там много интересного.
 
