@@ -24,5 +24,7 @@ Jupyter Notebooks and other files from my video tutorial series about GigaChat A
 
 [GigaChat API: работа с изображениями (распознавание и генерация)](https://youtu.be/7mRdG_ocEQY) - [Блокнот](https://github.com/trashchenkov/gigachat_tutorials/blob/main/IMAGES.ipynb)
 
+[Разбор возможностей LangChain 1.0: ReAct-агент, middleware и контекст инжиниринг](https://www.youtube.com/watch?v=DUvCP9US5WM) - [Блокнот](https://github.com/trashchenkov/gigachat_tutorials/blob/main/ReAct_with_Middleware.ipynb)
+
 ## А еще переходите в [ТГ-канал!](https://t.me/gigatrash) Там много интересного.
 
